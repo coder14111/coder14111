@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**coder14111/coder14111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `VANSH RAGHUVANSHI`
 
-Here are some ideas to get you started:
+### `MCA • 01 | IIPS-DAVV`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=SOFTWARE+%2B+HARDWARE+%2B+INTELLIGENCE;IoT+%7C+EMBEDDED+SYSTEMS+%7C+EXPERIMENTATION;BUILDING+AT+THE+EDGE+OF+CODE+%26+REALITY;CURIOUS+MIND.+BUILDER'S+MENTALITY." alt="Typing Animation">
+
+<br><br>
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
+</a>
+
+</div>
+
+---
+
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   VANSH.RAGHUVANSHI                                                  │
+│                                                                      │
+│   ROLE       →  MCA STUDENT / BUILDER                               │
+│   SYSTEM     →  IIPS — DAVV                                         │
+│   DOMAIN     →  SOFTWARE × HARDWARE × IoT                           │
+│   INTEREST   →  EMBEDDED SYSTEMS / EXPLORATION                      │
+│   STATUS     →  ████████████████████████  ONLINE                    │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
